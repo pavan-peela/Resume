@@ -1,1 +1,1 @@
-This repo is to store my resume
+This repository is to store my resume
